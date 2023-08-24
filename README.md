@@ -15,7 +15,7 @@ Before you begin, ensure you have the following software installed on your compu
 
 ### Installation
 
-1. Download the project repository by either [downloading the zip file](https://github.com/theresa-whynot/crowdcoin/archive/main.zip) or using Git to [clone the repository](https://github.com/theresa-whynot/crowdcoin.git)
+1. Download the project repository by either [downloading the zip file](https://github.com/theresa-whynot/crowdcoin/archive/main.zip) or using Git to [clone the repository](https://github.com/theresa-whynot/crowdcoin.git) (green "<>Code" button > Clone with HTTPS, SSH or GitHub CLI)
 2. Navigate to the project directory in your terminal: **cd crowdcoin-main**
 3. Install the project dependencies: **npm install**
    
