@@ -10,7 +10,7 @@ Follow these steps to set up and run CrowdCoin on your local machine:
 
 Before you begin, ensure you have the following software installed on your computer:
 
-- Node.js: <a href="https://nodejs.org/" target="_blank">Download and install Node.js</a>
+- Node.js: <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">Download and install Node.js</a>
 - MetaMask: [Download and install MetaMask](https://metamask.io/download/){:target="_blank"}
 
 ### Installation
