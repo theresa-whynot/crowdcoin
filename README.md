@@ -4,7 +4,7 @@ CrowdCoin is a Decentralized Ethereum-Based Crowd Funding App.
 
 ## Getting Started
 
-Follow these steps to set up and run the CrowdCoin project on your local machine:
+Follow these steps to set up and run CrowdCoin on your local machine:
 
 ### Prerequisites
 
