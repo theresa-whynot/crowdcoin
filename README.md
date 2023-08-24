@@ -26,7 +26,7 @@ Before you begin, ensure you have the following software installed on your compu
 
 ### Usage
 
-Explore the CrowdCoin app and its features. You can [create a new campaign](#), [contribute to existing campaigns](#), and more!
+Explore the CrowdCoin app and its features. Using Ether from your MetaMask wallet, you can create a new campaign, contribute to existing campaigns, and more!
 
 ## Contributing
 
