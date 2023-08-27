@@ -11,7 +11,7 @@ Follow these steps to set up and run CrowdCoin on your local machine:
 Before you begin, ensure you have the following software installed on your computer:
 
 - Node.js: [Download and install Node.JS](https://nodejs.org/)
-- MetaMask: [Download and install MetaMask](https://metamask.io/download/)
+- MetaMask: [Download and install MetaMask](https://metamask.io/download/) (Note that CrowdCoin can still operate in read-only mode without MetaMask. The application links to an Ethereum blockchain node endpoint when MetaMask is not in use)
 
 ### Installation
 
