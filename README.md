@@ -17,12 +17,12 @@ Before you begin, ensure you have the following software installed on your compu
 
 1. Download the project repository by either [downloading the zip file](https://github.com/theresa-whynot/crowdcoin/archive/main.zip) or using Git to [clone the repository](https://github.com/theresa-whynot/crowdcoin.git) (green "<>Code" button > Clone with HTTPS, SSH or GitHub CLI)
 2. Navigate to the project directory in your terminal: **cd crowdcoin-main**
-3. Install the project dependencies: **npm install**
+3. #IMPORTANT!!! ENSURE TO INCLUDE '--legacy-peer-deps'. The next-routes package, and enrtire application, cannot successfully work without it. Install the project dependencies: **npm install --legacy-peer-deps**
    
 ### Running the App
 
-1. After installing the dependencies, start the app: **npm start**
-2. Open your web browser and go to: [http://localhost:8080](http://localhost:8080)
+1. After installing the dependencies, start the app: **npm run dev**
+2. Open your web browser and go to: [http://localhost:3000](http://localhost:3000)
 
 ### Usage
 
