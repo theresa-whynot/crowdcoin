@@ -1,6 +1,7 @@
 # CrowdCoin
 
 CrowdCoin is a Decentralized Ethereum-Based Crowd Funding App.
+Check out the [demo video](https://github.com/theresa-whynot/crowdcoin/blob/main/CrowdCoinDemo.mp4) and [technical documention](https://github.com/theresa-whynot/crowdcoin/blob/main/CrowdCoin%20Technical%20Documentation.pdf) 
 
 ## Getting Started
 
